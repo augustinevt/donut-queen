@@ -29,3 +29,9 @@ p {
 body {
   background-color: #AA3F39;
 }
+
+.about-me {
+  background-color: white;
+  font-size: 140%;
+  text-shadow: 2px 2px 1px lime;
+}
