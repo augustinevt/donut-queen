@@ -4,10 +4,28 @@ div {
   margin: 15px 15px 15px 15px;
 }
 img {
-  float: left;
+  position: relative;
+
+}
+
+h1 {
+  display: inline-block;
+  text-transform: uppercase;
+  vertical-align: top;
+}
+h2{
+  color: #D46F6A;
+  font-size: 300%
+}
+h3 {
+  color: #801A15;
+  font-size: 140%;
 }
 p {
   color: #550400;
   line-height: 120%;
   font-family: serif;
+}
+body {
+  background-color: #AA3F39;
 }
