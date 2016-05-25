@@ -1,0 +1,13 @@
+div {
+  border: solid;
+  padding: 30px 30px 30px;
+  margin: 15px 15px 15px 15px;
+}
+img {
+  float: left;
+}
+p {
+  color: #550400;
+  line-height: 120%;
+  font-family: serif;
+}
